@@ -1,24 +1,23 @@
 {
-  "name": "awesome-gatsby-starter",
-  "version": "1.1.0",
-  "description": "A starter for GatsbyJS with a preconfigured MDX, Storybook and ESLint environment.",
+  "name": "Anthony Albertorio",
+  "version": "1.0",
+  "description": "Personal Website of Anthony Albertorio",
   "keywords": [
     "gatsby",
-    "gatsby-starter"
   ],
-  "homepage": "https://github.com/South-Paw/awesome-gatsby-starter",
-  "bugs": "https://github.com/South-Paw/awesome-gatsby-starter/issues",
+  "homepage": "",
+  "bugs": "",
   "license": "MIT",
   "author": {
-    "name": "Alex Gabites",
-    "email": "hello@southpaw.co.nz",
-    "url": "http://southpaw.co.nz/"
+    "name": "Anthony Albertorio",
+    "email": "",
+    "url": ""
   },
   "files": [],
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "https://github.com/South-Paw/awesome-gatsby-starter"
+    "url": ""
   },
   "scripts": {
     "build": "gatsby build",
@@ -33,6 +32,7 @@
   "dependencies": {
     "@mdx-js/mdx": "^1.0.20",
     "@mdx-js/react": "^1.0.20",
+    "@storybook/addon-info": "^5.2.4",
     "gatsby": "^2.8.2",
     "gatsby-image": "^2.1.2",
     "gatsby-mdx": "^0.6.3",
@@ -53,7 +53,6 @@
   "devDependencies": {
     "@storybook/addon-a11y": "5.0.11",
     "@storybook/addon-actions": "5.0.11",
-    "@storybook/addon-info": "5.0.11",
     "@storybook/addon-options": "5.0.11",
     "@storybook/addon-viewport": "5.0.11",
     "@storybook/react": "5.0.11",
