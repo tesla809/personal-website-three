@@ -1,23 +1,24 @@
 {
-  "name": "Anthony Albertorio",
-  "version": "1.0",
-  "description": "Personal Website of Anthony Albertorio",
+  "name": "third-personal-website",
+  "version": "1.0.0",
+  "description": "Personal website for Anthony Albertorio",
   "keywords": [
     "gatsby",
+    "gatsby-starter"
   ],
-  "homepage": "",
-  "bugs": "",
+  "homepage": "http://albertorio.com",
+  "bugs": "https://github.com/tesla809/personal-website-three/issues",
   "license": "MIT",
   "author": {
     "name": "Anthony Albertorio",
     "email": "",
-    "url": ""
+    "url": "http://albertorio.com"
   },
   "files": [],
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/tesla809/personal-website-three"
   },
   "scripts": {
     "build": "gatsby build",
@@ -32,7 +33,6 @@
   "dependencies": {
     "@mdx-js/mdx": "^1.0.20",
     "@mdx-js/react": "^1.0.20",
-    "@storybook/addon-info": "^5.2.4",
     "gatsby": "^2.8.2",
     "gatsby-image": "^2.1.2",
     "gatsby-mdx": "^0.6.3",
@@ -53,6 +53,7 @@
   "devDependencies": {
     "@storybook/addon-a11y": "5.0.11",
     "@storybook/addon-actions": "5.0.11",
+    "@storybook/addon-info": "^5.2.4",
     "@storybook/addon-options": "5.0.11",
     "@storybook/addon-viewport": "5.0.11",
     "@storybook/react": "5.0.11",
